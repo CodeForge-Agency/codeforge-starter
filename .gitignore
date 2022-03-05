@@ -35,3 +35,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# Lock files (please use yarn instead of npm)
+package-lock.json
+yarn.lock
